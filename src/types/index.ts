@@ -1,3 +1,5 @@
+declare module '@react-navigation/native';
+
 export interface JobListing {
     id: string;
     title: string;
